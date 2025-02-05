@@ -9,7 +9,7 @@ I hold a Microsoft certification in [Azure IoT](https://azure.microsoft.com/en-g
 
 My goal is to develop innovative solutions and contribute to the advancement of technology.
 
-- 🌐 Website: [STC STORB Consulting](https://storbconsulting.wordpress.com/)
+- 🌐 Websites: [STC STORB Consulting](https://storbconsulting.wordpress.com/), [STC STORB Travel Consulting](https://storbtravel.wordpress.com/), [STC Business Hub](https://stcbusinesshub.wordpress.com/), [Mashoo Shop](https://mashoo.shop/), [stc music](https://sites.google.com/view/stc-music/home)
 - 💼 LinkedIn: [Christian Storb](https://www.linkedin.com/in/christian-storb-326249aa)
 - 🐦 Twitter: [@ChristianStorb](https://twitter.com/ChristianStorb)
 - 📧 Email: [mail2storb@gmail.com](mailto:mail2storb@gmail.com)
