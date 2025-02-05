@@ -38,6 +38,8 @@ Web applications with ASP.NET Core, ASP.NET and standards-based web technologies
 
 <img class="cr-badges-full-badge__img" src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Microsoft Certified: Azure AI Fundamentals badge image. Issued by Microsoft" width="340" height="340">
 
+<img width="600" src="https://media.licdn.com/dms/image/v2/C4E22AQF7A6VQyGvLwA/feedshare-shrink_800/feedshare-shrink_800/0/1668961754586?e=1741824000&amp;v=beta&amp;t=gBCc3xXKYWPrgkn29Y5HsSaCgVIZKs6R2LPreccKegU" loading="lazy" height="313" alt="TrustRadius: SOFTWARE EXPERT was issued by TrustRadius to Christian Storb.">
+
 ## 📈 GitHub Stats
 ![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chstorb&show_icons=true&theme=radical)
 
