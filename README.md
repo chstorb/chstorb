@@ -1,4 +1,42 @@
-I'm a software engineer with 14 years of experience as a freelancer, working on various projects involving cloud computing and IoT. I have a Microsoft certification in Azure IoT development, which demonstrates my skills and knowledge in designing, implementing, and maintaining IoT solutions using Azure services. I'm proficient in several programming languages, frameworks, and tools, and I have a strong background in software architecture and development.
+# 👋 Hi, I'm Christian Storb
+
+## About Me
+I am an experienced software developer with extensive expertise in professional software development across various industries. My skills include the latest development tools, frameworks, and database systems, as well as the Azure Cloud. I have gained many years of experience both as a freelancer and in permanent positions.
+
+Since August 2022, I have been working as a software developer at wibutler, where I closely collaborate with international colleagues on the wibutler IoT platform for digital building technology.
+
+- 🌐 Website: [STC STORB Consulting](https://storbconsulting.wordpress.com/)
+- 💼 LinkedIn: [Christian Storb](https://www.linkedin.com/in/christian-storb-326249aa)
+- 🐦 Twitter: [@ChristianStorb](https://twitter.com/ChristianStorb)
+- 📧 Email: [mail2storb@gmail.com](mailto:mail2storb@gmail.com)
+
+## 🚀 Projects
+In recent years, I have contributed to a wide range of projects, including:
+
+- Designing and implementing software solutions in an eGovernment
+- Developing a high-speed analysis tool for W-CDMA
+- Software development for a collateral management system
+- Developing software for quality assurance in the automotive industry (APQP)
+- Software development in the field of automation and system technology for steelworks
+- Developing police applications
+
+## 🛠️ Skills
+- Programming Languages: `C#`, `JavaScript`
+- Technologies: `Azure`, `Docker`, `Kubernetes`
+- Tools: `Azure DevOps`, `Git`, `Visual Studio`, `VS Code`
+
+## 📈 GitHub Stats
+![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chstorb&show_icons=true&theme=radical)
+
+## 🌟 GitHub Trophies
+![Christian's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chstorb&theme=radical)
+
+## ✍️ Blog Posts
+- [**Exploring Azure Data Explorer: A Free Cluster Guide**](https://storbconsulting.wordpress.com/2023/10/15/exploring-azure-data-explorer-a-free-cluster-guide/): Azure Data Explorer (ADX) offers powerful data exploration capabilities for log and telemetry data.
+- [**Querying Azure Digital Twins by Model**](https://storbconsulting.wordpress.com/2023/10/18/querying-azure-digital-twins-by-model/): To query Azure Digital Twins by model, you can use the Azure Digital Twins query language.
+
+## 📫 Contact
+You can reach me via the channels above. Looking forward to connecting with you!
 
 [Follow me on LinkedIn](https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=christian-storb-326249aa)
 
