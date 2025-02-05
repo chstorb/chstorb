@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Christian Storb
 
-## About Me
+## About
 I am an experienced software developer with extensive expertise in professional software development across various industries. My skills include the latest development tools, frameworks, and database systems, as well as the Azure Cloud. I have gained many years of experience both as a freelancer and in permanent positions.
 
 Since August 2022, I have been working as a software developer at [wibutler](https://dbt-platform.com/), where I closely collaborate with international colleagues on the [wibutler IoT platform](https://wibutler-iot.com/) for digital building technology.
 
-I hold a Microsoft certification in Azure IoT development, which highlights my skills and knowledge in designing, implementing, and maintaining IoT solutions using Azure services. 
+I hold a Microsoft certification in [Azure IoT](https://azure.microsoft.com/en-gb/solutions/iot) development, which highlights my skills and knowledge in designing, implementing, and maintaining IoT solutions using [Azure services](https://azure.microsoft.com/en-gb/products). 
 
 My goal is to develop innovative solutions and contribute to the advancement of technology.
 
@@ -24,10 +24,10 @@ In recent years, I have contributed to a wide range of projects, including:
 - Software development in the field of automation and system technology for steelworks
 - Developing police applications
 
-## 🛠️ Skills
-- Programming Languages: `C#`, `JavaScript`
-- Technologies: `Azure`, `Docker`, `Kubernetes`
-- Tools: `Azure DevOps`, `Git`, `Visual Studio`, `VS Code`
+## 🛠️ Top skills
+- ASP.NET and web development: 
+Web applications with ASP.NET Core, ASP.NET and standards-based web technologies such as HTML/JavaScript, CSS and JSON.
+- Azure development: Development of cloud apps with .NET and .NET Framework.  
 
 ## 📈 GitHub Stats
 ![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chstorb&show_icons=true&theme=radical)
