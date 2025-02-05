@@ -29,6 +29,9 @@ In recent years, I have contributed to a wide range of projects, including:
 Web applications with ASP.NET Core, ASP.NET and standards-based web technologies such as HTML/JavaScript, CSS and JSON.
 - Azure development: Development of cloud apps with .NET and .NET Framework.  
 
+## 🎯 Featured
+<img class="cr-badges-full-badge__img" src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Microsoft Certified: Azure AI Fundamentals badge image. Issued by Microsoft" width="340" height="340">
+
 ## 📈 GitHub Stats
 ![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chstorb&show_icons=true&theme=radical)
 
