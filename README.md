@@ -3,7 +3,11 @@
 ## About Me
 I am an experienced software developer with extensive expertise in professional software development across various industries. My skills include the latest development tools, frameworks, and database systems, as well as the Azure Cloud. I have gained many years of experience both as a freelancer and in permanent positions.
 
-Since August 2022, I have been working as a software developer at wibutler, where I closely collaborate with international colleagues on the wibutler IoT platform for digital building technology.
+Since August 2022, I have been working as a software developer at [wibutler](https://dbt-platform.com/), where I closely collaborate with international colleagues on the [wibutler IoT platform](https://wibutler-iot.com/) for digital building technology.
+
+I hold a Microsoft certification in Azure IoT development, which highlights my skills and knowledge in designing, implementing, and maintaining IoT solutions using Azure services. 
+
+My goal is to develop innovative solutions and contribute to the advancement of technology.
 
 - 🌐 Website: [STC STORB Consulting](https://storbconsulting.wordpress.com/)
 - 💼 LinkedIn: [Christian Storb](https://www.linkedin.com/in/christian-storb-326249aa)
