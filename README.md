@@ -17,6 +17,7 @@ My goal is to develop innovative solutions and contribute to the advancement of 
 - 💼 LinkedIn: [Christian Storb](https://www.linkedin.com/in/christian-storb-326249aa)
 - 📷 Pixabay: [stcpictures](https://pixabay.com/users/stcpictures-11034844/)
 - 🎧 Spotify: [Christian Storb](https://open.spotify.com/intl-de/artist/2hnGbPtHIj3L3xWY6g41l3)
+- Stack Overflow: [Christian Storb](https://stackoverflow.com/users/4441032/christian-storb)
 - 🐦 Twitter: [@ChristianStorb](https://twitter.com/ChristianStorb)
 - ▶️ YouTube: [Christian Storb](https://www.youtube.com/@christianstorb)
 - 📧 Email: [mail2storb@gmail.com](mailto:mail2storb@gmail.com)
