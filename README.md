@@ -108,7 +108,7 @@ You can reach me via the channels above. Looking forward to connecting with you!
 
 [Follow me on LinkedIn](https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=christian-storb-326249aa)
 
-[![TrustRadius](./assets/images/tr_author_badge.png)](https://www.trustradius.com/)
+[![TrustRadius]([./assets/images/tr_author_badge.png](https://github.com/chstorb/chstorb/raw/main/assets/images/tr_author_badge.png))](https://www.trustradius.com/)
 
 <!---
 chstorb/chstorb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
