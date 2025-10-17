@@ -86,8 +86,6 @@ Earners of the Azure AI Fundamentals certification have demonstrated foundationa
 **Skills:** Azure Bot Services, Azure Machine Learning, Cognitive Services</p>
 
 <br><br>
-  
-<img width="600" src="https://media.licdn.com/dms/image/v2/C4E22AQF7A6VQyGvLwA/feedshare-shrink_800/feedshare-shrink_800/0/1668961754586?e=1741824000&amp;v=beta&amp;t=gBCc3xXKYWPrgkn29Y5HsSaCgVIZKs6R2LPreccKegU" loading="lazy" height="313" alt="TrustRadius: SOFTWARE EXPERT was issued by TrustRadius to Christian Storb.">
 
 ### TrustRadius: SOFTWARE EXPERT 
 
