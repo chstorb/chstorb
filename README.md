@@ -38,7 +38,10 @@ In recent years, I have contributed to a wide range of projects, including:
 - Azure development: Development of cloud apps with .NET and .NET Framework.  
 
 ## 🎯 Featured  
+
+<div style="width:340px;">
 ![Microsoft Certified: Azure IoT Developer Specialty badge image. Issued by Microsoft](https://images.credly.com/size/340x340/images/2711b780-c3f1-4678-a9ae-f6c49c379189/specialty-azure-iot-developer-600x600.png)
+</div>
 
 ### Microsoft Certified: Azure IoT Developer Specialty  
 
@@ -47,6 +50,8 @@ In recent years, I have contributed to a wide range of projects, including:
 Earning the Microsoft Certified: Azure IoT Developer Specialty certification validates experience and knowledge for the implementation and the coding required to create and maintain the cloud and edge portion of an IoT solution. In addition to configuring and maintaining the devices by using cloud services, the IoT Developer also sets up the physical devices. The IoT Developer is responsible for maintaining the devices throughout the life cycle.  
 
 **Skills:** Analytics On The Edge, Azure Device Provisioning Service, Azure IoT Central, Azure IoT Edge, Azure IoT Hub, Azure Security Center For IoT, Azure Stream Analytics, Azure Time Series Insights, Business Integration, Custom Edge Modules, Data Visualisation, Device Lifecycle Management, Edge Gateway Implementations, IoT Solution Monitoring  
+
+<br><br>
 
 ![Azure Data Fundamentals](https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)
 
@@ -57,7 +62,9 @@ Earning the Microsoft Certified: Azure IoT Developer Specialty certification val
 Earners of the Azure Data Fundamentals certification have demonstrated foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services.  
 
 **Skills:** Azure, Azure Cosmos DB, Azure Data Analyst, Azure Database Administrator, Azure Databricks, Azure Data Engineer, Azure Data Warehouse, Azure Synapsis Analytics, Cloud, Cloud Data, Cloud Data Services, Data Analytics, Data Processing, Data Visualisation, MariaDB, MySQL, PostgreSQL, Power BI, SQL Server On Azure Virtual Machines, Virtualization  
-  
+
+<br><br>
+
 ![Microsoft Certified: Azure Fundamentals badge image. Issued by Microsoft](https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
 
 ### Microsoft Certified: Azure Fundamentals  
@@ -67,6 +74,8 @@ Earners of the Azure Data Fundamentals certification have demonstrated foundatio
 Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.  
 
 **Skills:** Azure, Cloud Data, Cloud Networking, Cloud Security, Cloud Services, Cloud Storage, Virtualization  
+
+<br><br>
   
 ![Microsoft Certified: Azure AI Fundamentals badge image. Issued by Microsoft](https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)
 
@@ -78,9 +87,13 @@ Earners of the Azure AI Fundamentals certification have demonstrated foundationa
 
 **Skills:** Azure Bot Services, Azure Machine Learning, Cognitive Services  
 
+<br><br>
+
 ### TrustRadius: SOFTWARE EXPERT  
 
 *Issued by TrustRadius*  
+
+<br><br>
 
 ## 📈 GitHub Stats  
 ![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chstorb&show_icons=true&theme=radical)
