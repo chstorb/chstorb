@@ -51,9 +51,7 @@ Earning the Microsoft Certified: Azure IoT Developer Specialty certification val
 
 <br><br>
 
-<div style="width:340px;">
-  ![Azure Data Fundamentals](https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)
-</div>
+![Azure Data Fundamentals](https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)
 
 ### Microsoft Certified: Azure Data Fundamentals
 
