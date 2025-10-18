@@ -23,6 +23,8 @@ My goal is to develop innovative solutions and contribute to the advancement of 
 - ▶️ YouTube: [Christian Storb](https://www.youtube.com/@christianstorb)
 - 📧 Email: [mail2storb@gmail.com](mailto:mail2storb@gmail.com)
 
+<br><br>
+
 ## 🚀 Projects  
 In recent years, I have contributed to a wide range of projects, including:  
 
@@ -33,15 +35,17 @@ In recent years, I have contributed to a wide range of projects, including:
 - Software development in the field of automation and system technology for steelworks
 - Developing police applications
 
+<br><br>
+
 ## 🛠️ Top skills  
 - ASP.NET and web development: Web applications with ASP.NET Core, ASP.NET and standards-based web technologies such as HTML/JavaScript, CSS and JSON.
 - Azure development: Development of cloud apps with .NET and .NET Framework.  
 
+<br><br>
+
 ## 🎯 Featured  
 
-<div style="width:340px;">
 ![Microsoft Certified: Azure IoT Developer Specialty badge image. Issued by Microsoft](https://images.credly.com/size/340x340/images/2711b780-c3f1-4678-a9ae-f6c49c379189/specialty-azure-iot-developer-600x600.png)
-</div>
 
 ### Microsoft Certified: Azure IoT Developer Specialty  
 
@@ -98,15 +102,23 @@ Earners of the Azure AI Fundamentals certification have demonstrated foundationa
 ## 📈 GitHub Stats  
 ![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chstorb&show_icons=true&theme=radical)
 
+<br><br>
+
 ## 🌟 GitHub Trophies
 ![Christian's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chstorb&theme=radical)
+
+<br><br>
 
 ## ✍️ Blog Posts  
 - [**Exploring Azure Data Explorer: A Free Cluster Guide**](https://storbconsulting.wordpress.com/2023/10/15/exploring-azure-data-explorer-a-free-cluster-guide/): Azure Data Explorer (ADX) offers powerful data exploration capabilities for log and telemetry data.
 - [**Querying Azure Digital Twins by Model**](https://storbconsulting.wordpress.com/2023/10/18/querying-azure-digital-twins-by-model/): To query Azure Digital Twins by model, you can use the Azure Digital Twins query language.
 
+<br><br>
+
 ## 📫 Contact  
 You can reach me via the channels above. Looking forward to connecting with you!  
+
+<br><br>
 
 [Follow me on LinkedIn](https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=christian-storb-326249aa)  
 
