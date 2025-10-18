@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Christian Storb
+# 👋 Hi, I'm Christian Storb  
 
-## ℹ️ About
-I am an experienced software developer with extensive expertise in professional software development across various industries. My skills include the latest development tools, frameworks, and database systems, as well as the Azure Cloud. I have gained many years of experience both as a freelancer and in permanent positions.
+## ℹ️ About  
+I am an experienced software developer with extensive expertise in professional software development across various industries. My skills include the latest development tools, frameworks, and database systems, as well as the Azure Cloud. I have gained many years of experience both as a freelancer and in permanent positions.  
 
-Since August 2022, I have been working as a software developer at [wibutler](https://dbt-platform.com/), where I closely collaborate with international colleagues on the [wibutler IoT platform](https://wibutler-iot.com/) for digital building technology.
+Since August 2022, I have been working as a software developer at [wibutler](https://dbt-platform.com/), where I closely collaborate with international colleagues on the [wibutler IoT platform](https://wibutler-iot.com/) for digital building technology.  
 
-I hold a Microsoft certification in [Azure IoT](https://azure.microsoft.com/en-gb/solutions/iot) development, which highlights my skills and knowledge in designing, implementing, and maintaining IoT solutions using [Azure services](https://azure.microsoft.com/en-gb/products). 
+I hold a Microsoft certification in [Azure IoT](https://azure.microsoft.com/en-gb/solutions/iot) development, which highlights my skills and knowledge in designing, implementing, and maintaining IoT solutions using [Azure services](https://azure.microsoft.com/en-gb/products).  
 
-My goal is to develop innovative solutions and contribute to the advancement of technology.
+My goal is to develop innovative solutions and contribute to the advancement of technology.  
 
 - 🌐 Websites: [STC STORB Consulting](https://storbconsulting.kesug.com/), [STC STORB Travel Consulting](https://storbtravel.wordpress.com/), [STC Business Hub](https://storbconsulting.kesug.com/), [BRENOVELLE](https://hub.4lima.de/), [stc music](https://sites.google.com/view/stc-music/home)
 - 🛒 Amazon: [STORB](https://www.amazon.de/sp?ie=UTF8&seller=A3RBQE296XWBLJ)
@@ -23,8 +23,8 @@ My goal is to develop innovative solutions and contribute to the advancement of 
 - ▶️ YouTube: [Christian Storb](https://www.youtube.com/@christianstorb)
 - 📧 Email: [mail2storb@gmail.com](mailto:mail2storb@gmail.com)
 
-## 🚀 Projects
-In recent years, I have contributed to a wide range of projects, including:
+## 🚀 Projects  
+In recent years, I have contributed to a wide range of projects, including:  
 
 - Designing and implementing software solutions in an eGovernment
 - Developing a high-speed analysis tool for W-CDMA
@@ -33,82 +33,73 @@ In recent years, I have contributed to a wide range of projects, including:
 - Software development in the field of automation and system technology for steelworks
 - Developing police applications
 
-## 🛠️ Top skills
-- ASP.NET and web development: 
-Web applications with ASP.NET Core, ASP.NET and standards-based web technologies such as HTML/JavaScript, CSS and JSON.
+## 🛠️ Top skills  
+- ASP.NET and web development: Web applications with ASP.NET Core, ASP.NET and standards-based web technologies such as HTML/JavaScript, CSS and JSON.
 - Azure development: Development of cloud apps with .NET and .NET Framework.  
 
-## 🎯 Featured
+## 🎯 Featured  
+<div style="width:340px;">
 ![Microsoft Certified: Azure IoT Developer Specialty badge image. Issued by Microsoft](https://images.credly.com/size/340x340/images/2711b780-c3f1-4678-a9ae-f6c49c379189/specialty-azure-iot-developer-600x600.png)
+</div>
 
-### Microsoft Certified: Azure IoT Developer Specialty
+### Microsoft Certified: Azure IoT Developer Specialty  
 
-*Issued by Microsoft*
+*Issued by Microsoft*  
 
-Earning the Microsoft Certified: Azure IoT Developer Specialty certification validates experience and knowledge for the implementation and the coding required to create and maintain the cloud and edge portion of an IoT solution. In addition to configuring and maintaining the devices by using cloud services, the IoT Developer also sets up the physical devices. The IoT Developer is responsible for maintaining the devices throughout the life cycle.
+Earning the Microsoft Certified: Azure IoT Developer Specialty certification validates experience and knowledge for the implementation and the coding required to create and maintain the cloud and edge portion of an IoT solution. In addition to configuring and maintaining the devices by using cloud services, the IoT Developer also sets up the physical devices. The IoT Developer is responsible for maintaining the devices throughout the life cycle.  
 
-**Skills:** Analytics On The Edge, Azure Device Provisioning Service, Azure IoT Central, Azure IoT Edge, Azure IoT Hub, Azure Security Center For IoT, Azure Stream Analytics, Azure Time Series Insights, Business Integration, Custom Edge Modules, Data Visualisation, Device Lifecycle Management, Edge Gateway Implementations, IoT Solution Monitoring
-
-<br><br>
+**Skills:** Analytics On The Edge, Azure Device Provisioning Service, Azure IoT Central, Azure IoT Edge, Azure IoT Hub, Azure Security Center For IoT, Azure Stream Analytics, Azure Time Series Insights, Business Integration, Custom Edge Modules, Data Visualisation, Device Lifecycle Management, Edge Gateway Implementations, IoT Solution Monitoring  
 
 ![Azure Data Fundamentals](https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)
 
-### Microsoft Certified: Azure Data Fundamentals
+### Microsoft Certified: Azure Data Fundamentals  
 
-*Issued by Microsoft*
+*Issued by Microsoft*  
 
-Earners of the Azure Data Fundamentals certification have demonstrated foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services.
+Earners of the Azure Data Fundamentals certification have demonstrated foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services.  
 
-**Skills:** Azure, Azure Cosmos DB, Azure Data Analyst, Azure Database Administrator, Azure Databricks, Azure Data Engineer, Azure Data Warehouse, Azure Synapsis Analytics, Cloud, Cloud Data, Cloud Data Services, Data Analytics, Data Processing, Data Visualisation, MariaDB, MySQL, PostgreSQL, Power BI, SQL Server On Azure Virtual Machines, Virtualization
-
-<br><br>
+**Skills:** Azure, Azure Cosmos DB, Azure Data Analyst, Azure Database Administrator, Azure Databricks, Azure Data Engineer, Azure Data Warehouse, Azure Synapsis Analytics, Cloud, Cloud Data, Cloud Data Services, Data Analytics, Data Processing, Data Visualisation, MariaDB, MySQL, PostgreSQL, Power BI, SQL Server On Azure Virtual Machines, Virtualization  
   
 ![Microsoft Certified: Azure Fundamentals badge image. Issued by Microsoft](https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
 
-### Microsoft Certified: Azure Fundamentals
+### Microsoft Certified: Azure Fundamentals  
 
-*Issued by Microsoft*
+*Issued by Microsoft*  
 
-Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure. 
+Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.  
 
-**Skills:** Azure, Cloud Data, Cloud Networking, Cloud Security, Cloud Services, Cloud Storage, Virtualization
-
-<br><br>
+**Skills:** Azure, Cloud Data, Cloud Networking, Cloud Security, Cloud Services, Cloud Storage, Virtualization  
   
 ![Microsoft Certified: Azure AI Fundamentals badge image. Issued by Microsoft](https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)
 
-### Microsoft Certified: Azure AI Fundamentals
+### Microsoft Certified: Azure AI Fundamentals  
 
-*Issued by Microsoft*
+*Issued by Microsoft*  
 
 Earners of the Azure AI Fundamentals certification have demonstrated foundational knowledge of machine learning (ML) and artificial intelligence (AI) concepts and related Microsoft Azure services.
 
-**Skills:** Azure Bot Services, Azure Machine Learning, Cognitive Services
+**Skills:** Azure Bot Services, Azure Machine Learning, Cognitive Services  
 
-<br><br>
+### TrustRadius: SOFTWARE EXPERT  
 
-### TrustRadius: SOFTWARE EXPERT 
+*Issued by TrustRadius*  
 
-*Issued by TrustRadius*
-
-<br><br>
-
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 ![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chstorb&show_icons=true&theme=radical)
 
 ## 🌟 GitHub Trophies
 ![Christian's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chstorb&theme=radical)
 
-## ✍️ Blog Posts
+## ✍️ Blog Posts  
 - [**Exploring Azure Data Explorer: A Free Cluster Guide**](https://storbconsulting.wordpress.com/2023/10/15/exploring-azure-data-explorer-a-free-cluster-guide/): Azure Data Explorer (ADX) offers powerful data exploration capabilities for log and telemetry data.
 - [**Querying Azure Digital Twins by Model**](https://storbconsulting.wordpress.com/2023/10/18/querying-azure-digital-twins-by-model/): To query Azure Digital Twins by model, you can use the Azure Digital Twins query language.
 
-## 📫 Contact
-You can reach me via the channels above. Looking forward to connecting with you!
+## 📫 Contact  
+You can reach me via the channels above. Looking forward to connecting with you!  
 
-[Follow me on LinkedIn](https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=christian-storb-326249aa)
+[Follow me on LinkedIn](https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=christian-storb-326249aa)  
 
-[![TrustRadius](https://github.com/chstorb/chstorb/raw/main/assets/images/tr_author_badge.png)](https://www.trustradius.com/)
+[![TrustRadius](https://github.com/chstorb/chstorb/raw/main/assets/images/tr_author_badge.png)](https://www.trustradius.com/)  
 
 <!---
 chstorb/chstorb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
