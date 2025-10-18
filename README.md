@@ -63,7 +63,7 @@ Earners of the Azure Data Fundamentals certification have demonstrated foundatio
 
 <br><br>
   
-<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals badge image. Issued by Microsoft" width="340" height="340">
+![Microsoft Certified: Azure Fundamentals badge image. Issued by Microsoft](https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
 
 ### Microsoft Certified: Azure Fundamentals
 
