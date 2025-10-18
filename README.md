@@ -39,7 +39,7 @@ Web applications with ASP.NET Core, ASP.NET and standards-based web technologies
 - Azure development: Development of cloud apps with .NET and .NET Framework.  
 
 ## 🎯 Featured
-<img src="https://images.credly.com/size/340x340/images/2711b780-c3f1-4678-a9ae-f6c49c379189/specialty-azure-iot-developer-600x600.png" alt="Microsoft Certified: Azure IoT Developer Specialty badge image. Issued by Microsoft" width="340" height="340">
+<img src="https://images.credly.com/size/340x340/images/2711b780-c3f1-4678-a9ae-f6c49c379189/specialty-azure-iot-developer-600x600.png" alt="Microsoft Certified: Azure IoT Developer Specialty badge image. Issued by Microsoft" width="340" height="340" />
 
 ### Microsoft Certified: Azure IoT Developer Specialty
 
