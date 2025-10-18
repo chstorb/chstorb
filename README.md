@@ -59,7 +59,7 @@ Earning the Microsoft Certified: Azure IoT Developer Specialty certification val
 
 Earners of the Azure Data Fundamentals certification have demonstrated foundational knowledge of core data concepts and how they are implemented using Microsoft Azure data services.
 
-**Skills:** Azure, Azure Cosmos DB, Azure Data Analyst, Azure Database Administrator, Azure Databricks, Azure Data Engineer, Azure Data Warehouse, Azure Synapsis Analytics, Cloud, Cloud Data, Cloud Data Services, Data Analytics, Data Processing, Data Visualisation, MariaDB, MySQL, PostgreSQL, Power BI, SQL Server On Azure Virtual Machines, Virtualization</p>
+**Skills:** Azure, Azure Cosmos DB, Azure Data Analyst, Azure Database Administrator, Azure Databricks, Azure Data Engineer, Azure Data Warehouse, Azure Synapsis Analytics, Cloud, Cloud Data, Cloud Data Services, Data Analytics, Data Processing, Data Visualisation, MariaDB, MySQL, PostgreSQL, Power BI, SQL Server On Azure Virtual Machines, Virtualization
 
 <br><br>
   
@@ -71,11 +71,11 @@ Earners of the Azure Data Fundamentals certification have demonstrated foundatio
 
 Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure. 
 
-**Skills:** Azure, Cloud Data, Cloud Networking, Cloud Security, Cloud Services, Cloud Storage, Virtualization</p>
+**Skills:** Azure, Cloud Data, Cloud Networking, Cloud Security, Cloud Services, Cloud Storage, Virtualization
 
 <br><br>
   
-<img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="Microsoft Certified: Azure AI Fundamentals badge image. Issued by Microsoft" width="340" height="340">
+![Microsoft Certified: Azure AI Fundamentals badge image. Issued by Microsoft](https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)
 
 ### Microsoft Certified: Azure AI Fundamentals
 
@@ -83,7 +83,7 @@ Earners of the Azure Fundamentals certification have demonstrated foundational l
 
 Earners of the Azure AI Fundamentals certification have demonstrated foundational knowledge of machine learning (ML) and artificial intelligence (AI) concepts and related Microsoft Azure services.
 
-**Skills:** Azure Bot Services, Azure Machine Learning, Cognitive Services</p>
+**Skills:** Azure Bot Services, Azure Machine Learning, Cognitive Services
 
 <br><br>
 
