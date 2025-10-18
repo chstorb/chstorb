@@ -38,9 +38,7 @@ In recent years, I have contributed to a wide range of projects, including:
 - Azure development: Development of cloud apps with .NET and .NET Framework.  
 
 ## 🎯 Featured  
-<div style="width:340px;">
 ![Microsoft Certified: Azure IoT Developer Specialty badge image. Issued by Microsoft](https://images.credly.com/size/340x340/images/2711b780-c3f1-4678-a9ae-f6c49c379189/specialty-azure-iot-developer-600x600.png)
-</div>
 
 ### Microsoft Certified: Azure IoT Developer Specialty  
 
