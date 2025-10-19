@@ -12,6 +12,9 @@ Christian Storb
 Telefon: +49 1590 6810 667  
 E-Mail: [mail2storb@gmail.com](mailto:mail2storb@gmail.com)
 
+**Umsatzsteuer-Identifikationsnummer gemäß § 27a UStG:**  
+Nicht vorhanden – Kleinunternehmer gemäß § 19 UStG
+
 ---
 
 ## Streitbeilegung
