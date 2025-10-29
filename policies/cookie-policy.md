@@ -51,4 +51,4 @@ E-Mail: [mail2storb@gmail.com](mailto:mail2storb@gmail.com)
 
 ---
 
-*Diese Cookie-Richtlinie gilt für alle Online-Auftritte von STC STORB Consulting, einschließlich der GitHub Pages-Webseite.*
+*Diese Cookie-Richtlinie gilt für alle Online-Auftritte von STC STORB Consulting.*
