@@ -43,21 +43,11 @@ Die Gewährleistungsbedingungen entnehmen Sie bitte unseren Allgemeinen Geschäf
 
 ---
 
-## Geltungsbereich
-
-Die Angaben in diesem Impressum gelten auch für die folgenden Online-Auftritte von STC STORB Consulting:
-
-- Facebook  
-- Instagram  
-- YouTube  
-- Pinterest  
-- Trustprofile
-
----
-
 ## Bildnachweise
 
 Bilderquellen: 
 - [Pixabay](https://pixabay.com)  
 
+---
 
+*Die Angaben in diesem Impressum gelten für alle Online-Auftritte von STC STORB Consulting.*
