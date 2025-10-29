@@ -50,4 +50,4 @@ Bilderquellen:
 
 ---
 
-*Die Angaben in diesem Impressum gelten für alle Online-Auftritte von STC STORB Consulting.*
+*Die Angaben in diesem Impressum gelten für alle Dienste und Online-Auftritte von STC STORB Consulting.*
