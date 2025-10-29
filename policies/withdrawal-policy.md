@@ -24,13 +24,13 @@ In bestimmten Situationen werden nur teilweise Rückerstattungen gewährt (falls
 Wenn wir Ihre Rücksendung erhalten und kontrolliert haben, senden wir Ihnen eine E-Mail zu, um Sie zu informieren, dass wir den von Ihnen zurückgegebenen Artikel erhalten haben. Wir werden Sie auch über die Genehmigung oder Ablehnung Ihrer Rückerstattung informieren. Wenn Ihre Rückerstattung genehmigt wurde, wird sie bearbeitet. Nach einigen Tagen erfolgt dann automatisch eine Gutschrift auf Ihre Kreditkarte oder die ursprüngliche Zahlungsmethode.
 
 ## Verspätete oder fehlende Rückerstattungen (falls zutreffend) 
-Wenn Sie noch keine Rückerstattung erhalten haben, überprüfen Sie zunächst noch einmal Ihr Bankkonto. Kontaktieren Sie anschließend Ihr Kreditkartenunternehmen. Es kann einige Zeit dauern, bis Ihre Rückerstattung gutgeschrieben wird. Wenden Sie sich als Nächstes an Ihre Bank. Es gibt häufig eine Bearbeitungszeit, bis eine Rückerstattung auf Ihr Konto gebucht wird. Wenn Sie all dies getan haben und noch immer keine Rückerstattung erhalten haben, kontaktieren Sie uns bitte unter mail2mashoo@gmail.com.
+Wenn Sie noch keine Rückerstattung erhalten haben, überprüfen Sie zunächst noch einmal Ihr Bankkonto. Kontaktieren Sie anschließend Ihr Kreditkartenunternehmen. Es kann einige Zeit dauern, bis Ihre Rückerstattung gutgeschrieben wird. Wenden Sie sich als Nächstes an Ihre Bank. Es gibt häufig eine Bearbeitungszeit, bis eine Rückerstattung auf Ihr Konto gebucht wird. Wenn Sie all dies getan haben und noch immer keine Rückerstattung erhalten haben, kontaktieren Sie uns bitte unter mail2storb@gmail.com.
 
 ## Angebotsartikel (falls zutreffend) 
 Eine Rückerstattung kann nur für Artikel mit regulärem Preis erfolgen, Angebotsartikel sind von der Rückerstattung leider ausgeschlossen.
 
 ## Umtausch (falls zutreffend) 
-Ein Umtausch wird nur für defekte oder beschädigte Artikel gewährt. Wenn Sie einen Artikel gegen den gleichen Artikel umtauschen möchten, senden Sie uns eine E-Mail an mail2mashoo@gmail.com und schicke Sie den Artikel an: Humboldtweg 3, Nottuln, Nordrhein-Westfalen, 48301, Deutschland.
+Ein Umtausch wird nur für defekte oder beschädigte Artikel gewährt. Wenn Sie einen Artikel gegen den gleichen Artikel umtauschen möchten, senden Sie uns eine E-Mail an mail2storb@gmail.com und schicke Sie den Artikel an: Humboldtweg 3, Nottuln, Nordrhein-Westfalen, 48301, Deutschland.
 
 ## Geschenke
 Wenn der Artikel beim Kauf als Geschenk gekennzeichnet und direkt an Sie gesendet wurde, erhalten Sie bei Rückgabe des Artikels einen Gutschein in Höhe des Einkaufswerts. Sobald der zurückgeschickte Artikel bei uns eingegangen ist, erhalten Sie einen Gutschein per E-Mail. Wenn der Artikel beim Kauf nicht als Geschenk gekennzeichnet oder an die schenkende Person gesendet wurde, erfolgt die Erstattung an die schenkende Person, und die schenkende Person wird über die Rückgabe informiert.
