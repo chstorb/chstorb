@@ -112,6 +112,8 @@ Daten können außerhalb Europas verarbeitet werden. Wir verwenden Standardvertr
 Christian Storb  
 Humboldtweg 3  
 D-48301 Nottuln  
+
+Telefon: +49 1590 6810 667  
 E-Mail: [mail2storb@gmail.com](mailto:mail2storb@gmail.com)
 
 ---
