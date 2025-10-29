@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "title": "STC STORB Consulting",
     "slug": "consulting",
@@ -10,7 +10,8 @@
       {
         "title": "Unternehmen",
         "slug": "company",
-        "file": "consulting/index.md",
+        "file": "consulting/company.md",
+        "section": "main",
         "order": 110,
         "tenant": "stc-consulting"
       },
@@ -18,6 +19,7 @@
         "title": "Grundsätze",
         "slug": "principles",
         "file": "consulting/principles.md",
+        "section": "main",
         "order": 120,
         "tenant": "stc-consulting"
       },
@@ -25,6 +27,7 @@
         "title": "Leistungen",
         "slug": "services",
         "file": "consulting/services.md",
+        "section": "main",
         "order": 130,
         "tenant": "stc-consulting"
       },
@@ -32,6 +35,7 @@
         "title": "Profile im Web",
         "slug": "profiles",
         "file": "consulting/profiles.md",
+        "section": "main",
         "order": 140,
         "tenant": "stc-consulting"
       },
@@ -39,6 +43,7 @@
         "title": "Karriere",
         "slug": "career",
         "file": "consulting/career/index.md",
+        "section": "main",
         "order": 200,
         "tenant": "stc-consulting",
         "children": [
@@ -46,6 +51,7 @@
             "title": "Anforderungsprofil",
             "slug": "requirements",
             "file": "consulting/career/requirements.md",
+            "section": "main",
             "order": 210,
             "tenant": "stc-consulting"
           }
@@ -55,6 +61,7 @@
         "title": "Kontakt",
         "slug": "contact",
         "file": "consulting/contact/index.md",
+        "section": "main",
         "order": 300,
         "tenant": "stc-consulting",
         "children": [
@@ -62,6 +69,7 @@
             "title": "Ansprechpartner",
             "slug": "contacts",
             "file": "consulting/contact/contacts.md",
+            "section": "main",
             "order": 310,
             "tenant": "stc-consulting"
           }
@@ -71,6 +79,7 @@
         "title": "Partner",
         "slug": "partner",
         "file": "consulting/partner/index.md",
+        "section": "main",
         "order": 400,
         "tenant": "stc-consulting"
       },
@@ -78,6 +87,7 @@
         "title": "Referenzen",
         "slug": "references",
         "file": "consulting/references/index.md",
+        "section": "main",
         "order": 500,
         "tenant": "stc-consulting",
         "children": [
@@ -85,6 +95,7 @@
             "title": "Ausgewählte Referenzen",
             "slug": "featured-references",
             "file": "consulting/references/featured-references.md",
+            "section": "main",
             "order": 510,
             "tenant": "stc-consulting"
           },
@@ -92,6 +103,7 @@
             "title": "Produkte / Projekte",
             "slug": "products-projects",
             "file": "consulting/references/featured-projects.md",
+            "section": "main",
             "order": 520,
             "tenant": "stc-consulting"
           },
@@ -99,6 +111,7 @@
             "title": "Unternehmen",
             "slug": "companies",
             "file": "consulting/references/featured-companies.md",
+            "section": "main",
             "order": 530,
             "tenant": "stc-consulting"
           }
