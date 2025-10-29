@@ -47,6 +47,8 @@ Bei Fragen zur Verwendung von Cookies oder zum Datenschutz kontaktieren Sie uns 
 Christian Storb  
 Humboldtweg 3  
 D-48301 Nottuln  
+
+Telefon: +49 1590 6810 667  
 E-Mail: [mail2storb@gmail.com](mailto:mail2storb@gmail.com)
 
 ---
