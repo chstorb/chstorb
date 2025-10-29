@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Christian Storb  
+﻿# 👋 Hi, I'm Christian Storb  
 
 ## ℹ️ About  
 I am an experienced software developer with extensive expertise in professional software development across various industries. My skills include the latest development tools, frameworks, and database systems, as well as the Azure Cloud. I have gained many years of experience both as a freelancer and in permanent positions.  
@@ -122,7 +122,7 @@ You can reach me via the channels above. Looking forward to connecting with you!
 
 [Follow me on LinkedIn](https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=christian-storb-326249aa)  
 
-[![TrustRadius](https://github.com/chstorb/chstorb/raw/main/assets/images/tr_author_badge.png)](https://www.trustradius.com/)  
+[![TrustRadius](https://github.com/chstorb/chstorb/raw/main/assets/images/global/tr_author_badge.png)](https://www.trustradius.com/)  
 
 <!---
 chstorb/chstorb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

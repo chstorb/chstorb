@@ -1,0 +1,155 @@
+﻿[
+  {
+    "title": "STC STORB Consulting",
+    "slug": "consulting",
+    "file": "consulting/index.md",
+    "section": "main",
+    "order": 100,
+    "tenant": "stc-consulting",
+    "children": [
+      {
+        "title": "Unternehmen",
+        "slug": "company",
+        "file": "consulting/index.md",
+        "order": 110,
+        "tenant": "stc-consulting"
+      },
+      {
+        "title": "Grundsätze",
+        "slug": "principles",
+        "file": "consulting/principles.md",
+        "order": 120,
+        "tenant": "stc-consulting"
+      },
+      {
+        "title": "Leistungen",
+        "slug": "services",
+        "file": "consulting/services.md",
+        "order": 130,
+        "tenant": "stc-consulting"
+      },
+      {
+        "title": "Profile im Web",
+        "slug": "profiles",
+        "file": "consulting/profiles.md",
+        "order": 140,
+        "tenant": "stc-consulting"
+      },
+      {
+        "title": "Karriere",
+        "slug": "career",
+        "file": "consulting/career/index.md",
+        "order": 200,
+        "tenant": "stc-consulting",
+        "children": [
+          {
+            "title": "Anforderungsprofil",
+            "slug": "requirements",
+            "file": "consulting/career/requirements.md",
+            "order": 210,
+            "tenant": "stc-consulting"
+          }
+        ]
+      },
+      {
+        "title": "Kontakt",
+        "slug": "contact",
+        "file": "consulting/contact/index.md",
+        "order": 300,
+        "tenant": "stc-consulting",
+        "children": [
+          {
+            "title": "Ansprechpartner",
+            "slug": "contacts",
+            "file": "consulting/contact/contacts.md",
+            "order": 310,
+            "tenant": "stc-consulting"
+          }
+        ]
+      },
+      {
+        "title": "Partner",
+        "slug": "partner",
+        "file": "consulting/partner/index.md",
+        "order": 400,
+        "tenant": "stc-consulting"
+      },
+      {
+        "title": "Referenzen",
+        "slug": "references",
+        "file": "consulting/references/index.md",
+        "order": 500,
+        "tenant": "stc-consulting",
+        "children": [
+          {
+            "title": "Ausgewählte Referenzen",
+            "slug": "featured-references",
+            "file": "consulting/references/featured-references.md",
+            "order": 510,
+            "tenant": "stc-consulting"
+          },
+          {
+            "title": "Produkte / Projekte",
+            "slug": "products-projects",
+            "file": "consulting/references/featured-projects.md",
+            "order": 520,
+            "tenant": "stc-consulting"
+          },
+          {
+            "title": "Unternehmen",
+            "slug": "companies",
+            "file": "consulting/references/featured-companies.md",
+            "order": 530,
+            "tenant": "stc-consulting"
+          }
+        ]
+      },
+      {
+        "title": "Rechtliches",
+        "slug": "policies",
+        "section": "footer",
+        "hidden": true,
+        "order": 900,
+        "tenant": "stc-consulting",
+        "children": [
+          {
+            "title": "Impressum",
+            "slug": "imprint",
+            "file": "consulting/policies/imprint.md",
+            "section": "footer",
+            "hidden": false,
+            "order": 910,
+            "tenant": "stc-consulting"
+          },
+          {
+            "title": "Datenschutz",
+            "slug": "privacy",
+            "file": "consulting/policies/privacy.md",
+            "section": "footer",
+            "hidden": false,
+            "order": 920,
+            "tenant": "stc-consulting"
+          },
+          {
+            "title": "AGB",
+            "slug": "terms",
+            "file": "consulting/policies/terms.md",
+            "section": "footer",
+            "hidden": false,
+            "order": 930,
+            "tenant": "stc-consulting"
+          },
+          {
+            "title": "Widerrufsbelehrung",
+            "slug": "revocation",
+            "file": "consulting/policies/revocation.md",
+            "section": "footer",
+            "hidden": false,
+            "order": 940,
+            "tenant": "stc-consulting"
+          }
+        ]
+      }
+    ]
+  }
+]
