@@ -1,4 +1,4 @@
-﻿# STC unterstützt Ihr Projekt bei Ihren Kunden und Geschäftspartnern vor Ort von der Planung über die Entwicklung bis zur Markteinführung und dem Betrieb.
+﻿## STC unterstützt Ihr Projekt bei Ihren Kunden und Geschäftspartnern vor Ort von der Planung über die Entwicklung bis zur Markteinführung und dem Betrieb.
 
 In vielen Projekten ist der Aufwand, eigenes Know-how aufzubauen, zu groß und auch zu langwierig. Dazu kommt, dass z. B. nach der Entwicklung einer Applikation das reine Entwicklungs- und Implementierungs-Know-how kaum oder überhaupt nicht mehr benötigt wird und das eingestellte Personal fortan anderweitig einzusetzen oder wieder zu entlassen wäre.
 
