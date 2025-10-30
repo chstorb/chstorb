@@ -1,4 +1,4 @@
-#﻿# STC finden Sie auch auf den folgenden Seiten im Web:
+## STC finden Sie auch auf den folgenden Seiten im Web:
 
 - 🌐 Websites: [STC STORB Consulting](https://storbconsulting.kesug.com/), [STC STORB Travel Consulting](https://storbtravel.wordpress.com/), [STC Business Hub](https://storbconsulting.kesug.com/), [BRENOVELLE](https://hub.4lima.de/), [stc music](https://sites.google.com/view/stc-music/home)
 - 🛒 Amazon: [STORB](https://www.amazon.de/sp?ie=UTF8&seller=A3RBQE296XWBLJ)
