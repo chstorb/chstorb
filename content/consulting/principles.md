@@ -1,4 +1,4 @@
-﻿Neue Wege zu beschreiten, hat bei uns Tradition. Bewahrt haben wir bei allem Wandel unsere Unternehmensgrundsätze. Alle Aspekte unserer Geschäftstätigkeit beruhen auf dem intakten Gleichgewicht zwischen unseren vier Leitmotiven:
+## ﻿Neue Wege zu beschreiten, hat bei uns Tradition. Bewahrt haben wir bei allem Wandel unsere Unternehmensgrundsätze. Alle Aspekte unserer Geschäftstätigkeit beruhen auf dem intakten Gleichgewicht zwischen unseren vier Leitmotiven:
 
 • Unabhängigkeit
 
