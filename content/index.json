@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "title": "STC STORB Consulting",
     "slug": "consulting",
@@ -92,42 +92,42 @@
         "tenant": "stc-consulting",
         "icon": "star",
         "children": [
-                {
-                  "title": "Ausgewählte Referenzen",
-                  "slug": "featured-references",
-                  "file": "consulting/references/featured-references.md",
-                  "order": 510,
-                  "tenant": "stc-consulting",
-                  "icon": "grade"
-                },
-                {
-                  "title": "Produkte / Projekte",
-                  "slug": "products-projects",
-                  "file": "consulting/references/featured-projects.md",
-                  "order": 520,
-                  "tenant": "stc-consulting",
-                  "icon": "widgets"
-                },
-                {
-                  "title": "Unternehmen",
-                  "slug": "companies",
-                  "file": "consulting/references/featured-companies.md",
-                  "order": 530,
-                  "tenant": "stc-consulting",
-                  "icon": "apartment"
-                }
-              ]
-            },
-            {
-              "title": "Rechtliches",
-              "slug": "policies",
-              "section": "footer",
-              "hidden": true,
-              "order": 900,
-              "tenant": "stc-consulting",
-              "icon": "gavel",
-              "children": [
-                   {
+          {
+            "title": "Ausgewählte Referenzen",
+            "slug": "featured-references",
+            "file": "consulting/references/featured-references.md",
+            "order": 510,
+            "tenant": "stc-consulting",
+            "icon": "grade"
+          },
+          {
+            "title": "Produkte / Projekte",
+            "slug": "products-projects",
+            "file": "consulting/references/featured-projects.md",
+            "order": 520,
+            "tenant": "stc-consulting",
+            "icon": "widgets"
+          },
+          {
+            "title": "Unternehmen",
+            "slug": "companies",
+            "file": "consulting/references/featured-companies.md",
+            "order": 530,
+            "tenant": "stc-consulting",
+            "icon": "apartment"
+          }
+        ]
+      },
+      {
+        "title": "Rechtliches",
+        "slug": "policies",
+        "section": "footer",
+        "hidden": true,
+        "order": 900,
+        "tenant": "stc-consulting",
+        "icon": "gavel",
+        "children": [
+          {
             "title": "Impressum",
             "slug": "legal-notice",
             "file": "consulting/policies/legal-notice.md",
