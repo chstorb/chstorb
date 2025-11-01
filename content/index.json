@@ -92,45 +92,45 @@
         "tenant": "stc-consulting",
         "icon": "star",
         "children": [
-          {
-            "title": "Ausgewählte Referenzen",
-            "slug": "featured-references",
-            "file": "consulting/references/featured-references.md",
-            "order": 510,
-            "tenant": "stc-consulting",
-            "icon": "grade"
-          },
-          {
-            "title": "Produkte / Projekte",
-            "slug": "products-projects",
-            "file": "consulting/references/featured-projects.md",
-            "order": 520,
-            "tenant": "stc-consulting",
-            "icon": "widgets"
-          },
-          {
-            "title": "Unternehmen",
-            "slug": "companies",
-            "file": "consulting/references/featured-companies.md",
-            "order": 530,
-            "tenant": "stc-consulting",
-            "icon": "apartment"
-          }
-        ]
-      },
-      {
-        "title": "Rechtliches",
-        "slug": "policies",
-        "section": "footer",
-        "hidden": true,
-        "order": 900,
-        "tenant": "stc-consulting",
-        "icon": "gavel",
-        "children": [
-          {
+                {
+                  "title": "Ausgewählte Referenzen",
+                  "slug": "featured-references",
+                  "file": "consulting/references/featured-references.md",
+                  "order": 510,
+                  "tenant": "stc-consulting",
+                  "icon": "grade"
+                },
+                {
+                  "title": "Produkte / Projekte",
+                  "slug": "products-projects",
+                  "file": "consulting/references/featured-projects.md",
+                  "order": 520,
+                  "tenant": "stc-consulting",
+                  "icon": "widgets"
+                },
+                {
+                  "title": "Unternehmen",
+                  "slug": "companies",
+                  "file": "consulting/references/featured-companies.md",
+                  "order": 530,
+                  "tenant": "stc-consulting",
+                  "icon": "apartment"
+                }
+              ]
+            },
+            {
+              "title": "Rechtliches",
+              "slug": "policies",
+              "section": "footer",
+              "hidden": true,
+              "order": 900,
+              "tenant": "stc-consulting",
+              "icon": "gavel",
+              "children": [
+                   {
             "title": "Impressum",
-            "slug": "imprint",
-            "file": "consulting/policies/imprint.md",
+            "slug": "legal-notice",
+            "file": "consulting/policies/legal-notice.md",
             "section": "footer",
             "hidden": false,
             "order": 910,
@@ -139,8 +139,8 @@
           },
           {
             "title": "Datenschutz",
-            "slug": "privacy",
-            "file": "consulting/policies/privacy.md",
+            "slug": "privacy-policy",
+            "file": "consulting/policies/privacy-policy.md",
             "section": "footer",
             "hidden": false,
             "order": 920,
@@ -149,8 +149,8 @@
           },
           {
             "title": "AGB",
-            "slug": "terms",
-            "file": "consulting/policies/terms.md",
+            "slug": "terms-of-service",
+            "file": "consulting/policies/terms-of-service.md",
             "section": "footer",
             "hidden": false,
             "order": 930,
@@ -159,13 +159,33 @@
           },
           {
             "title": "Widerrufsbelehrung",
-            "slug": "revocation",
-            "file": "consulting/policies/revocation.md",
+            "slug": "withdrawal-policy",
+            "file": "consulting/policies/withdrawal-policy.md",
             "section": "footer",
             "hidden": false,
             "order": 940,
             "tenant": "stc-consulting",
             "icon": "undo"
+          },
+          {
+            "title": "Cookie-Richtlinie",
+            "slug": "cookie-policy",
+            "file": "consulting/policies/cookie-policy.md",
+            "section": "footer",
+            "hidden": false,
+            "order": 950,
+            "tenant": "stc-consulting",
+            "icon": "cookie"
+          },
+          {
+            "title": "Versandbedingungen",
+            "slug": "shipping-policy",
+            "file": "consulting/policies/shipping-policy.md",
+            "section": "footer",
+            "hidden": false,
+            "order": 960,
+            "tenant": "stc-consulting",
+            "icon": "local_shipping"
           }
         ]
       }
