@@ -29,7 +29,7 @@
           "description": "Erfahren Sie mehr über die Struktur und Philosophie von STC STORB Consulting.",
           "robots": "index,follow"
         }
-      }, // Unternehmen
+      }, 
       {
         "title": "Grundsätze",
         "slug": "principles",
@@ -44,7 +44,7 @@
           "description": "Die ethischen und fachlichen Prinzipien, die unsere Arbeit leiten.",
           "robots": "index,follow"
         }
-      }, // Grundsätze
+      }, 
       {
         "title": "Leistungen",
         "slug": "services",
@@ -59,7 +59,7 @@
           "description": "Entdecken Sie unsere Cloud-, Dokumentations- und E-Commerce-Dienstleistungen.",
           "robots": "index,follow"
         }
-      }, // Leistungen
+      }, 
       {
         "title": "Profile im Web",
         "slug": "profiles",
@@ -74,7 +74,7 @@
           "description": "Finden Sie STC STORB Consulting auf LinkedIn, GitHub und anderen Plattformen.",
           "robots": "index,follow"
         }
-      }, // Profile im Web
+      }, 
       {
         "title": "Karriere",
         "slug": "career",
@@ -104,9 +104,9 @@
               "description": "Fachliche und persönliche Anforderungen für Bewerber.",
               "robots": "index,follow"
             }
-          } // Anforderungsprofil
+          } 
         ]
-      }, // Karriere
+      }, 
       {
         "title": "Kontakt",
         "slug": "contact",
@@ -136,9 +136,9 @@
               "description": "Lernen Sie unser Team kennen und finden Sie den richtigen Kontakt.",
               "robots": "index,follow"
             }
-          } // Ansprechpartner
+          } 
         ]
-      }, // Kontakt
+      }, 
       {
         "title": "Partner",
         "slug": "partner",
@@ -153,7 +153,7 @@
           "description": "Strategische Partnerschaften und technologische Kooperationen.",
           "robots": "index,follow"
         }
-      }, // Partner
+      }, 
       {
         "title": "Referenzen",
         "slug": "references",
@@ -183,7 +183,7 @@
               "description": "Besonders erfolgreiche Projekte im Überblick.",
               "robots": "index,follow"
             }
-          }, // Ausgewählte Referenzen
+          }, 
           {
             "title": "Produkte / Projekte",
             "slug": "products-projects",
@@ -198,7 +198,7 @@
               "description": "Technische Umsetzungen und Produktentwicklungen.",
               "robots": "index,follow"
             }
-          }, // Produkte / Projekte
+          }, 
           {
             "title": "Unternehmen",
             "slug": "companies",
@@ -213,9 +213,9 @@
               "description": "Branchen und Kunden, mit denen wir zusammenarbeiten.",
               "robots": "index,follow"
             }
-          } // Unternehmen
+          } 
         ]
-      }, // Referenzen
+      }, 
       {
         "title": "Rechtliches",
         "slug": "policies",
@@ -248,7 +248,7 @@
               "description": "Gesetzlich vorgeschriebene Anbieterkennzeichnung für STC STORB Consulting.",
               "robots": "index,follow"
             }
-          }, // Impressum
+          }, 
           {
             "title": "Datenschutz",
             "slug": "privacy-policy",
@@ -265,7 +265,7 @@
               "description": "Erfahren Sie, wie STC STORB Consulting Ihre personenbezogenen Daten schützt und verarbeitet.",
               "robots": "index,follow"
             }
-          }, // Datenschutz
+          }, 
           {
             "title": "AGB",
             "slug": "terms-of-service",
@@ -282,7 +282,7 @@
               "description": "Lesen Sie die AGB für die Nutzung unserer Dienstleistungen und Angebote.",
               "robots": "index,follow"
             }
-          }, // AGB
+          }, 
           {
             "title": "Widerrufsbelehrung",
             "slug": "withdrawal-policy",
@@ -299,7 +299,7 @@
               "description": "Informationen zum Widerrufsrecht für Verbraucher gemäß § 355 BGB.",
               "robots": "index,follow"
             }
-          }, // Widerrufsbelehrung
+          }, 
           {
             "title": "Cookie-Richtlinie",
             "slug": "cookie-policy",
@@ -316,7 +316,7 @@
               "description": "Erfahren Sie, welche Cookies wir verwenden und wie Sie Ihre Zustimmung verwalten können.",
               "robots": "index,follow"
             }
-          }, // Cookie-Richtlinie
+          }, 
           {
             "title": "Versandbedingungen",
             "slug": "shipping-policy",
@@ -333,9 +333,9 @@
               "description": "Informationen zu Versandarten, Lieferzeiten und Kosten für Ihre Bestellung.",
               "robots": "index,follow"
             }
-          } // Versandbedingungen
+          } 
         ]
-      } // Rechtliches
+      } 
     ]
   }
 ]
