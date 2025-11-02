@@ -201,7 +201,7 @@
           }, 
           {
             "title": "Unternehmen",
-            "slug": "companies",
+            "slug": "featured-companies",
             "file": "consulting/references/featured-companies.md",
             "order": 530,
             "tenant": "stc-consulting",
