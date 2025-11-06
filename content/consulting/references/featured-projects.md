@@ -1,16 +1,16 @@
-﻿## Ausgewählte Projekte
+﻿### Ausgewählte Projekte
 
-### A2LL
+#### A2LL
 A2LL steht für „Arbeitslosengeld 2, Leistungen zum Lebensunterhalt“ – und sein gleichnamiges IT-Programm für das größte webgestützte Transaktionssystem in Deutschland überhaupt: eine Applikation für bis zu 40.000 gleichzeitig aktive Nutzer, die pro Tag bis zu 800.000 Einzelbuchungen schafft. Dieses unvergleichlich hochkomplexe IT-System ist europaweit eine der größten E-Government-Lösungen.  
 
 Mit A2LL war die Bundesagentur für Arbeit (BA) in der Lage, alle  Langzeitarbeitslosen vor dem Start der Arbeitsmarktreform elektronisch zu erfassen; ihnen ordnungsgemäß und pünktlich zum Stichtag 1. Januar 2005 die zustehende Grundsicherung auszahlen zu können; sie bei Kranken-, Renten- und Pflegeversicherungen anzumelden und die entsprechenden Beiträge dorthin abzuführen.  
 
 A2LL ist das  IT-Instrument, ohne das die größte Reform der deutschen Arbeitsmarkt- und Sozialpolitik, das sogenannte Hartz IV-Gesetz, nicht hätte umgesetzt werden können.
 
-### ABIT Kredit
+#### ABIT Kredit
 ABIT Kredit ist eine leistungsfähige Softwarelösung für den Gesamtprozess der Kreditantrags- und Kreditsachbearbeitung - für alle Engagementgrößen und alle Institutsgruppen. Die Lösung eignet sich sowohl für den zentralen als auch für den dezentralen Einsatz in der Kreditwirtschaft und unterstützt Geschäftsprozesse im Gewerbe-, Firmen- und Privatkundengeschäft. Mit ABIT Kredit steht Kreditinstituten eine Lösung mit hoher Flexibilität hinsichtlich der unternehmensspezifischen Konfiguration von Kreditprodukten, Sicherheitenarten und Geschäftsprozessdefinitionen zur Verfügung.  
 
-### ARTEMIS
+#### ARTEMIS
 Artemis ist ein High-Speed-Analyse-Werkzeug für W-CDMA (UMTS Trace Tool).  
 
 #### CASQ-it APQP
