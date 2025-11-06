@@ -1,6 +1,6 @@
-﻿# 👋 Hi, I'm Christian Storb  
+﻿## 👋 Hi, I'm Christian Storb  
 
-## ℹ️ About  
+### ℹ️ About  
 I am an experienced software developer with extensive expertise in professional software development across various industries. My skills include the latest development tools, frameworks, and database systems, as well as the Azure Cloud. I have gained many years of experience both as a freelancer and in permanent positions.  
 
 Since August 2022, I have been working as a software developer at [wibutler](https://dbt-platform.com/), where I closely collaborate with international colleagues on the [wibutler IoT platform](https://wibutler-iot.com/) for digital building technology.  
@@ -25,7 +25,7 @@ My goal is to develop innovative solutions and contribute to the advancement of 
 
 <br><br>
 
-## 🚀 Projects  
+### 🚀 Projects  
 In recent years, I have contributed to a wide range of projects, including:  
 
 - Designing and implementing software solutions in an eGovernment
@@ -37,17 +37,17 @@ In recent years, I have contributed to a wide range of projects, including:
 
 <br><br>
 
-## 🛠️ Top skills  
+### 🛠️ Top skills  
 - ASP.NET and web development: Web applications with ASP.NET Core, ASP.NET and standards-based web technologies such as HTML/JavaScript, CSS and JSON.
 - Azure development: Development of cloud apps with .NET and .NET Framework.  
 
 <br><br>
 
-## 🎯 Featured  
+### 🎯 Featured  
 
 ![Microsoft Certified: Azure IoT Developer Specialty badge image. Issued by Microsoft](https://images.credly.com/size/340x340/images/2711b780-c3f1-4678-a9ae-f6c49c379189/specialty-azure-iot-developer-600x600.png)
 
-### Microsoft Certified: Azure IoT Developer Specialty  
+#### Microsoft Certified: Azure IoT Developer Specialty  
 
 *Issued by Microsoft*  
 
@@ -59,7 +59,7 @@ Earning the Microsoft Certified: Azure IoT Developer Specialty certification val
 
 ![Azure Data Fundamentals](https://images.credly.com/size/340x340/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png)
 
-### Microsoft Certified: Azure Data Fundamentals  
+#### Microsoft Certified: Azure Data Fundamentals  
 
 *Issued by Microsoft*  
 
@@ -71,7 +71,7 @@ Earners of the Azure Data Fundamentals certification have demonstrated foundatio
 
 ![Microsoft Certified: Azure Fundamentals badge image. Issued by Microsoft](https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
 
-### Microsoft Certified: Azure Fundamentals  
+#### Microsoft Certified: Azure Fundamentals  
 
 *Issued by Microsoft*  
 
@@ -83,7 +83,7 @@ Earners of the Azure Fundamentals certification have demonstrated foundational l
   
 ![Microsoft Certified: Azure AI Fundamentals badge image. Issued by Microsoft](https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)
 
-### Microsoft Certified: Azure AI Fundamentals  
+#### Microsoft Certified: Azure AI Fundamentals  
 
 *Issued by Microsoft*  
 
@@ -93,29 +93,29 @@ Earners of the Azure AI Fundamentals certification have demonstrated foundationa
 
 <br><br>
 
-### TrustRadius: SOFTWARE EXPERT  
+#### TrustRadius: SOFTWARE EXPERT  
 
 *Issued by TrustRadius*  
 
 <br><br>
 
-## 📈 GitHub Stats  
+### 📈 GitHub Stats  
 ![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chstorb&show_icons=true&theme=radical)
 
 <br><br>
 
-## 🌟 GitHub Trophies
+### 🌟 GitHub Trophies
 ![Christian's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chstorb&theme=radical)
 
 <br><br>
 
-## ✍️ Blog Posts  
+### ✍️ Blog Posts  
 - [**Exploring Azure Data Explorer: A Free Cluster Guide**](https://storbconsulting.wordpress.com/2023/10/15/exploring-azure-data-explorer-a-free-cluster-guide/): Azure Data Explorer (ADX) offers powerful data exploration capabilities for log and telemetry data.
 - [**Querying Azure Digital Twins by Model**](https://storbconsulting.wordpress.com/2023/10/18/querying-azure-digital-twins-by-model/): To query Azure Digital Twins by model, you can use the Azure Digital Twins query language.
 
 <br><br>
 
-## 📫 Contact  
+### 📫 Contact  
 You can reach me via the channels above. Looking forward to connecting with you!  
 
 <br><br>

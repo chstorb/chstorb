@@ -1,4 +1,4 @@
-﻿## STC steht seit der Gründung im Dezember 2000 für Eigenständigkeit und Unabhängigkeit.
+﻿### STC steht seit der Gründung im Dezember 2000 für Eigenständigkeit und Unabhängigkeit.
 
 Seit vielen Jahren lösen wir Aufgaben unserer Kunden mit Erfolg. Die Bandbreite der von uns durchgeführten Projekte ist entsprechend hoch. Wir arbeiten mit vielen Kunden langfristig zusammen, nicht wenige sind Kunden der ersten Stunde, die wir seit unserer Unternehmensgründung im Jahr 2000 unterstützen.  
 

@@ -1,75 +1,77 @@
-﻿Eine fundierte kaufmännische und betriebswirtschaftliche Ausbildung sowie unsere langjährige praktische Berufserfahrung bilden die Basis unseres Geschäfts. Die Fähigkeit, Methoden mit Augenmaß einzusetzen, das Know-how unserer Kunden mit einzubinden und Umsetzungshürden abzubauen, ist ein wesentliches Element unserer Erfolge. So erzielen wir bestmögliche Ergebnisse mit effizientem Ressourceneinsatz. Partnerschaft, Wertschätzung, Verbindlichkeit und Vertrauen kennzeichnen unseren Umgang mit Kunden und Kollegen.
+﻿### Eine fundierte kaufmännische und betriebswirtschaftliche Ausbildung sowie unsere langjährige praktische Berufserfahrung bilden die Basis unseres Geschäfts. Die Fähigkeit, Methoden mit Augenmaß einzusetzen, das Know-how unserer Kunden mit einzubinden und Umsetzungshürden abzubauen, ist ein wesentliches Element unserer Erfolge. So erzielen wir bestmögliche Ergebnisse mit effizientem Ressourceneinsatz. Partnerschaft, Wertschätzung, Verbindlichkeit und Vertrauen kennzeichnen unseren Umgang mit Kunden und Kollegen.
 
-Christian Storb
+**Christian Storb**  
 Inhaber von STC STORB Consulting
 
-Qualifikation
+**Qualifikation**  
 Diplom-Betriebswirt (FH) und Industriekaufmann
 
-Tätigkeitsschwerpunkte
-Organisation
-Datenverarbeitung
-Rechnungswesen / Controlling
-Beruflicher Werdegang: 
-2000
+**Tätigkeitsschwerpunkte**  
+- Organisation  
+- Datenverarbeitung  
+- Rechnungswesen / Controlling 
 
-Gründung von storb / Consulting
+### Beruflicher Werdegang:  
 
-1999 - 2000
+#### 2000  
 
-Systemberater
+Gründung von storb / Consulting  
 
-rola Security Solutions, http://www.rola.com
+#### 1999 - 2000  
 
-Branche: Informationstechnologie & –dienste
-Gesellschaft in privater Hand, 11-50 Mitarbeiter
+Systemberater  
 
-Entwicklung von Polizeiapplikationen. Feinkonzeption, Entwicklung und Test von Vorgangsbearbeitungssystemen im Rahmen von Großprojekten.
+rola Security Solutions, http://www.rola.com  
 
-1996 - 1999
+Branche: Informationstechnologie & –dienste  
+Gesellschaft in privater Hand, 11-50 Mitarbeiter  
 
-Organisationsprogrammierer
+Entwicklung von Polizeiapplikationen. Feinkonzeption, Entwicklung und Test von Vorgangsbearbeitungssystemen im Rahmen von Großprojekten.  
 
-Roller GmbH & Co. KG, http://www.roller.de
+#### 1996 - 1999  
 
-Branche: Möbel
-Gesellschaft in privater Hand, 1001-5000 Mitarbeiter
+Organisationsprogrammierer  
 
-Mitarbeit in einem Projekt zur Verbesserung der Warenwirtschaft, Projektleitung Bilddatenbank, Anwendungsentwicklung
+Roller GmbH & Co. KG, http://www.roller.de  
 
-1994 -1996
+Branche: Möbel  
+Gesellschaft in privater Hand, 1001-5000 Mitarbeiter  
 
-Controller
+Mitarbeit in einem Projekt zur Verbesserung der Warenwirtschaft, Projektleitung Bilddatenbank, Anwendungsentwicklung  
 
-Dr. Otto Suwelack Nachf. GmbH & Co. KG, http://www.suwelack.de
+#### 1994 - 1996  
 
-Branche: Lebensmittel
-Gesellschaft in privater Hand, 201-500 Mitarbeiter
+Controller  
 
-1993
+Dr. Otto Suwelack Nachf. GmbH & Co. KG, http://www.suwelack.de  
 
-Werksstudent
+Branche: Lebensmittel  
+Gesellschaft in privater Hand, 201-500 Mitarbeiter  
 
-BOG Siemens-Nixdorf Informationssysteme GmbH, http://www.bog.de
+#### 1993  
 
-Branche: Informationstechnologie & –dienste
-Gesellschaft in privater Hand, 201-500 Mitarbeiter
+Werksstudent  
 
-1990 - 1991
+BOG Siemens-Nixdorf Informationssysteme GmbH, http://www.bog.de  
 
-Fachberater
+Branche: Informationstechnologie & –dienste  
+Gesellschaft in privater Hand, 201-500 Mitarbeiter  
 
-BOG Siemens-Nixdorf Informationssysteme GmbH, http://www.bog.de
+#### 1990 - 1991  
 
-Branche: Informationstechnologie & –dienste
-Gesellschaft in privater Hand, 51-200 Mitarbeiter
+Fachberater  
 
-1989
+BOG Siemens-Nixdorf Informationssysteme GmbH, http://www.bog.de  
 
-Kaufmännischer Angestellter
+Branche: Informationstechnologie & –dienste  
+Gesellschaft in privater Hand, 51-200 Mitarbeiter  
 
-M. Rump Industriewerbung GmbH, http://www.rump-werbung.de
+#### 1989  
 
-Branche: Marketing & Werbung
+Kaufmännischer Angestellter  
 
-Gesellschaft in privater Hand, 1-10 Mitarbeiter
+M Rump Industriewerbung GmbH, http://www.rump-werbung.de  
+
+Branche: Marketing & Werbung  
+
+Gesellschaft in privater Hand, 1-10 Mitarbeiter  

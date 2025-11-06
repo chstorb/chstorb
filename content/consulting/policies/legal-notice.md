@@ -1,4 +1,4 @@
-# Impressum
+﻿### Impressum
 
 **STC STORB Consulting**  
 Christian Storb  
@@ -17,7 +17,7 @@ Nicht vorhanden – Kleinunternehmer gemäß § 19 UStG
 
 ---
 
-## Streitbeilegung
+#### Streitbeilegung
 
 Seit dem 15. Februar 2016 stellt die EU-Kommission eine Plattform für außergerichtliche Streitschlichtung bereit.  
 Verbrauchern gibt dies die Möglichkeit, Streitigkeiten im Zusammenhang mit ihrer Online-Bestellung zunächst ohne die Einschaltung eines Gerichts zu klären.  
@@ -31,7 +31,7 @@ Wir sind bemüht, eventuelle Meinungsverschiedenheiten aus unserem Vertrag einve
 
 ---
 
-## Hinweis zu Inhalten
+#### Hinweis zu Inhalten
 
 Alle Texte, Bilder, Grafiken, Ton-, Video- und Animationsdateien unterliegen dem Urheberrecht und anderen Gesetzen zum Schutz geistigen Eigentums.  
 Sie dürfen weder für Handelszwecke oder zur Weitergabe kopiert, noch verändert und auf anderen Websites verwendet werden.  
@@ -43,7 +43,7 @@ Die Gewährleistungsbedingungen entnehmen Sie bitte unseren Allgemeinen Geschäf
 
 ---
 
-## Bildnachweise
+#### Bildnachweise
 
 Bilderquellen: 
 - [Pixabay](https://pixabay.com)  

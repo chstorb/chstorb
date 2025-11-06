@@ -1,4 +1,4 @@
-# Datenschutzerklärung
+﻿### Datenschutzerklärung
 
 **Letzte Aktualisierung:** 31. Oktober 2024
 
@@ -6,7 +6,7 @@ Diese Datenschutzrichtlinie beschreibt, wie **STC STORB Consulting** („Website
 
 ---
 
-## 1. Verantwortlicher
+#### 1. Verantwortlicher
 
 **STC STORB Consulting**  
 Christian Storb  
@@ -16,29 +16,29 @@ E-Mail: [mail2storb@gmail.com](mailto:mail2storb@gmail.com)
 
 ---
 
-## 2. Änderungen dieser Datenschutzrichtlinie
+#### 2. Änderungen dieser Datenschutzrichtlinie
 
 Wir können diese Richtlinie gelegentlich aktualisieren. Änderungen werden auf der Website veröffentlicht und das Datum „Zuletzt aktualisiert“ angepasst.
 
 ---
 
-## 3. Erhebung und Verwendung personenbezogener Daten
+#### 3. Erhebung und Verwendung personenbezogener Daten
 
-### A. Direkt von Ihnen bereitgestellte Informationen
+##### A. Direkt von Ihnen bereitgestellte Informationen
 
 - Kontaktdaten (Name, Adresse, Telefonnummer, E-Mail)
 - Bestellinformationen (Rechnungs-/Lieferadresse, Zahlungsdetails)
 - Kontoinformationen (Benutzername, Passwort, Sicherheitsfragen)
 - Support-Kommunikation
 
-### B. Automatisch erfasste Nutzungsdaten
+##### B. Automatisch erfasste Nutzungsdaten
 
 - Geräte- und Browserinformationen
 - IP-Adresse
 - Interaktionen mit der Website
 - Cookies und Tracking-Technologien
 
-### C. Von Dritten erhaltene Informationen
+##### C. Von Dritten erhaltene Informationen
 
 - Zahlungsabwickler (z. B. Bankdaten, Kreditkarteninformationen)
 - Website-Dienstleister (z. B. Shopify)
@@ -46,7 +46,7 @@ Wir können diese Richtlinie gelegentlich aktualisieren. Änderungen werden auf 
 
 ---
 
-## 4. Verwendungszwecke
+#### 4. Verwendungszwecke
 
 - Bereitstellung und Verbesserung der Dienste
 - Kommunikation mit Ihnen
@@ -56,15 +56,15 @@ Wir können diese Richtlinie gelegentlich aktualisieren. Änderungen werden auf 
 
 ---
 
-## 5. Cookies
+#### 5. Cookies
 
 Wir verwenden Cookies zur Verbesserung der Website und zur Analyse. Details zu Shopify-Cookies: [https://www.shopify.com/legal/cookies](https://www.shopify.com/legal/cookies)
 
 ---
 
-## 6. Weitergabe personenbezogener Daten
+#### 6. Weitergabe personenbezogener Daten
 
-### Kategorien von Empfängern:
+##### Kategorien von Empfängern:
 
 - Dienstleister (IT, Zahlungsabwicklung, Versand, Support)
 - Geschäfts- und Marketingpartner
@@ -73,7 +73,7 @@ Wir verwenden Cookies zur Verbesserung der Website und zur Analyse. Details zu S
 
 ---
 
-## 7. Rechte der betroffenen Personen
+#### 7. Rechte der betroffenen Personen
 
 Je nach Wohnort haben Sie ggf. folgende Rechte:
 
@@ -88,25 +88,25 @@ Je nach Wohnort haben Sie ggf. folgende Rechte:
 
 ---
 
-## 8. Kommunikationseinstellungen
+#### 8. Kommunikationseinstellungen
 
 Sie können sich jederzeit von Werbe-E-Mails abmelden. Systemnachrichten (z. B. zu Bestellungen) bleiben davon unberührt.
 
 ---
 
-## 9. Beschwerden
+#### 9. Beschwerden
 
 Bei Beschwerden kontaktieren Sie uns bitte unter [mail2storb@gmail.com](mailto:mail2storb@gmail.com). Alternativ können Sie sich an Ihre lokale Datenschutzbehörde wenden.
 
 ---
 
-## 10. Internationale Datenübermittlung
+#### 10. Internationale Datenübermittlung
 
 Daten können außerhalb Europas verarbeitet werden. Wir verwenden Standardvertragsklauseln oder gleichwertige Mechanismen, sofern kein angemessenes Schutzniveau festgestellt wurde.
 
 ---
 
-## 11. Kontakt
+#### 11. Kontakt
 
 **STC STORB Consulting**  
 Christian Storb  
