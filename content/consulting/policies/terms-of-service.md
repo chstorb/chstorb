@@ -89,7 +89,7 @@ Diese Allgemeinen Geschäftsbedingungen und alle separaten Vereinbarungen, in de
 
 #### ABSCHNITT 19 – ÄNDERUNGEN DER ALLGEMEINEN GESCHÄFTSBEDINGUNGEN
 
-#### Die aktuellste Version der Allgemeinen Geschäftsbedingungen können Sie jederzeit auf dieser Seite einsehen. Wir behalten uns das Recht vor, jegliche Teile dieser Allgemeinen Geschäftsbedingungen nach eigenem Ermessen zu aktualisieren, zu ändern oder zu ersetzen, indem wir Aktualisierungen und Änderungen auf unserer Website veröffentlichen. Es liegt in Ihrer Verantwortung, unsere Website regelmäßig auf mögliche Änderungen zu überprüfen. Indem Sie unsere Website oder die Serviceleistung nach der Veröffentlichung von Änderungen dieser Allgemeinen Geschäftsbedingungen weiterhin nutzen oder weiterhin darauf zugreifen, gilt dies als Annahme dieser Änderungen.
+Die aktuellste Version der Allgemeinen Geschäftsbedingungen können Sie jederzeit auf dieser Seite einsehen. Wir behalten uns das Recht vor, jegliche Teile dieser Allgemeinen Geschäftsbedingungen nach eigenem Ermessen zu aktualisieren, zu ändern oder zu ersetzen, indem wir Aktualisierungen und Änderungen auf unserer Website veröffentlichen. Es liegt in Ihrer Verantwortung, unsere Website regelmäßig auf mögliche Änderungen zu überprüfen. Indem Sie unsere Website oder die Serviceleistung nach der Veröffentlichung von Änderungen dieser Allgemeinen Geschäftsbedingungen weiterhin nutzen oder weiterhin darauf zugreifen, gilt dies als Annahme dieser Änderungen.
 
 #### ABSCHNITT 20 – KONTAKTDATEN
 
