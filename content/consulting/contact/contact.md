@@ -7,4 +7,4 @@ Mobil: +49 (0) 1590 6810 667
 
 E-Mail: [mail2storb@gmail.com](mailto:mail2storb@gmail.com) 
 
-Internet: https://chstorb.github.io  
+Internet: [https://chstorb.github.io](https://chstorb.github.io)  
