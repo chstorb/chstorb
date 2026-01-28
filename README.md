@@ -18,6 +18,7 @@ My goal is to develop innovative solutions and contribute to the advancement of 
 - 🎻 jsFiddle: [Christian Storb](https://jsfiddle.net/u/chstorb/fiddles/)
 - 💼 LinkedIn: [Christian Storb](https://www.linkedin.com/in/christian-storb-326249aa)
 - 📷 Pixabay: [stcpictures](https://pixabay.com/users/stcpictures-11034844/)
+- 🔊 SoundCloud: [Christian Storb](https://soundcloud.com/christian-storb)
 - 🎧 Spotify: [Christian Storb](https://open.spotify.com/intl-de/artist/2hnGbPtHIj3L3xWY6g41l3)
 - Stack Overflow: [Christian Storb](https://stackoverflow.com/users/4441032/christian-storb)
 - 🐦 Twitter: [ChristianStorb](https://twitter.com/ChristianStorb)
