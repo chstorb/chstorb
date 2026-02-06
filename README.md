@@ -1,6 +1,5 @@
-﻿## 👋 Hi, I'm Christian Storb  
+﻿## Christian Storb  
 
-### ℹ️ About  
 I am an experienced software developer with extensive expertise in professional software development across various industries. My skills include the latest development tools, frameworks, and database systems, as well as the Azure Cloud. I have gained many years of experience both as a freelancer and in permanent positions.  
 
 Since August 2022, I have been working as a software developer at [wibutler](https://dbt-platform.com/), where I closely collaborate with international colleagues on the [wibutler IoT platform](https://wibutler-iot.com/) for digital building technology.  
@@ -11,20 +10,21 @@ My goal is to develop innovative solutions and contribute to the advancement of 
 
 - 🌐 Websites: [Christian Storb](https://chstorb.github.io), [STORB Consulting](https://chstorb.github.io), [STC STORB Consulting](https://storbconsulting.kesug.com/), [STC STORB Travel Consulting](https://storbtravel.wordpress.com/), [STC Business Hub](https://storbconsulting.kesug.com/), [Prinzipal-Mode](https://prinzipal-mode.de), [stc music](https://sites.google.com/view/stc-music/home)
 - 🙋‍♂️ about.me: [christianstorb](https://about.me/christianstorb/getstarted)
-- 🛒 Amazon: [STORB](https://www.amazon.de/sp?ie=UTF8&seller=A3RBQE296XWBLJ)
+- 🛒 Amazon: [STORB-SHOP]([https://www.amazon.de/sp?ie=UTF8&seller=A3RBQE296XWBLJ](https://www.amazon.de/s?me=A3RBQE296XWBLJ))
 - 📫 Blogspot: [chstorb](https://chstorb.blogspot.com/)
-- 📘 Facebook: [Christian Storb](https://www.facebook.com/storb.christian/)
 - 🎵 DEEZER: [Christian Storb](https://www.deezer.com/de/artist/11667829)
-- 👍Instagram: [STC STORB Consulting](https://www.instagram.com/storbconsulting)
+- 🛒 eBay: [STORB-SHOP](https://www.ebay.de/usr/storb-shop)
+- 📘 Facebook: [Christian Storb](https://www.facebook.com/storb.christian/)
+- 👍 Instagram: [STC STORB Consulting](https://www.instagram.com/storbconsulting)
 - 🎻 jsFiddle: [Christian Storb](https://jsfiddle.net/u/chstorb/fiddles/)
 - 💼 LinkedIn: [Christian Storb](https://www.linkedin.com/in/christian-storb-326249aa)
 - 📷 Pixabay: [stcpictures](https://pixabay.com/users/stcpictures-11034844/)
+- ✍️ prog.ai: [Christian Storb](https://getprog.ai/profile/10462545)
 - 🔊 SoundCloud: [Christian Storb](https://soundcloud.com/christian-storb)
 - 🎧 Spotify: [Christian Storb](https://open.spotify.com/intl-de/artist/2hnGbPtHIj3L3xWY6g41l3)
-- Stack Overflow: [Christian Storb](https://stackoverflow.com/users/4441032/christian-storb)
+- 📝 Stack Overflow: [Christian Storb](https://stackoverflow.com/users/4441032/christian-storb)
 - 🐦 Twitter: [ChristianStorb](https://twitter.com/ChristianStorb)
 - ▶️ YouTube: [Christian Storb (chstorb)](https://www.youtube.com/channel/UCifXNuiWObNbkZnXP8DJnhg), [Christian Storb](https://www.youtube.com/@christianstorb)
-- 📧 Email: [mail2storb@gmail.com](mailto:mail2storb@gmail.com)
 
 <br><br>
 
