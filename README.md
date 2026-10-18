@@ -159,19 +159,6 @@ Throughout my career as a senior engineer and consultant, I have architected and
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chstorb&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Christian's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chstorb&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chstorb&theme=radical&column=7&margin-w=10" alt="Christian's GitHub Trophies" />
-</p>
-
----
-
 ### 🌐 Websites & Portals
 
 - 🏛️ **[Privatarchiv Ackermann-Teubner](https://victorious-hill-048309503.7.azurestaticapps.net/)** – Digitales Archiv & Kulturportal auf Azure Static Web Apps
